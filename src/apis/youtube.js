@@ -1,5 +1,5 @@
 import axios from 'axios';
-/*const KEY = 'AIzaSyC2eUwLjpH9_8s-SdqkABUhSaz0xi9wXTI';
+/*const KEY = 'YOUR API KEY';
 
 export const baseParams = {
         part: 'snippet',
