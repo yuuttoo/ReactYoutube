@@ -13,7 +13,7 @@ class App extends React.Component {
     }
 
    onTermSubmit = async term => {
-    const KEY = 'AIzaSyC2eUwLjpH9_8s-SdqkABUhSaz0xi9wXTI';
+    const KEY = 'YOUR API KEY';
 
     const response = await youtube.get('/search', {
         params: {
